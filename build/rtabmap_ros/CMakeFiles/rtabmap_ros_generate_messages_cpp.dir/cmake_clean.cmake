@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/AddLink.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/CleanupLocalGrids.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/DetectMoreLoopClosures.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/EnvSensor.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/GPS.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/GetMap.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/GetMap2.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/GetNodeData.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/GetNodesInRadius.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/GetPlan.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/GlobalBundleAdjustment.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/GlobalDescriptor.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/Goal.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/Info.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/KeyPoint.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/Link.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/ListLabels.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/LoadDatabase.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/MapData.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/MapGraph.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/NodeData.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/OdomInfo.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/Path.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/Point2f.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/Point3f.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/PublishMap.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/RGBDImage.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/RGBDImages.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/RemoveLabel.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/ResetPose.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/ScanDescriptor.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/SetGoal.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/SetLabel.h"
+  "/home/cmartin/Desktop/Udacity/Robotics/C4/P4/devel/include/rtabmap_ros/UserData.h"
+  "CMakeFiles/rtabmap_ros_generate_messages_cpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/rtabmap_ros_generate_messages_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
